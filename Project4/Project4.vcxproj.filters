@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hanoi.cpp">
+    <ClCompile Include="blackjak.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
