@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="blackjak.cpp">
+    <ClCompile Include="decomposition_sum.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
