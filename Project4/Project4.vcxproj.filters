@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="chess_re.cpp">
+    <ClCompile Include="movie666.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
