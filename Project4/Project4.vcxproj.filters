@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sort2.cpp">
+    <ClCompile Include="statistics.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
