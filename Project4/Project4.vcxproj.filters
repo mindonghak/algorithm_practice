@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sortxy2.cpp">
+    <ClCompile Include="sortword.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
