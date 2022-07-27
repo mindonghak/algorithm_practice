@@ -1,29 +1,31 @@
 #include <iostream>
 #include <algorithm>
-#include <string.h>
-#include <set>
+#include <string>
+#include <map>
 using namespace std;
-set<string> N;
-string M[10000];
-
-int Count;
+map <string, int> M;
+string M2[100000];
 int main() {
-	int n, m, i,j;
+	ios::sync_with_stdio(false);
+	cin.tie(nullptr);
+	int n, m, i;
 	string temp;
 	cin >> n;
 	cin >> m;
 	for (i = 0; i < n; i++) {
 		cin >> temp;
-		N.insert(temp);
+		M.insert({ temp,i });
+		M2[i] = temp;
 	}
 	for (i = 0; i < m; i++) {
-		cin >> M[i];
-	}
-	for (i = 0; i < m; i++) {
-		if (N.end() != N.find(M[i])) {
-			Count++;
+		cin >> temp;
+		if (isdigit(temp[0])) {
+			cout << M2[stoi(temp)-1]<<'\n';
+		}
+		else {
+			cout << M.find(temp)->second+1<<'\n';
 		}
 	}
-	cout << Count;
+
 	return 0;
 }
