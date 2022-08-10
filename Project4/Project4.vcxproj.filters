@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="NandM4.cpp">
+    <ClCompile Include="Nqueen.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
