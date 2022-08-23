@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01tile.cpp">
+    <ClCompile Include="wave_sequence.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
