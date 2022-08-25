@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="continue_sum.cpp">
+    <ClCompile Include="RGB_distance.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
