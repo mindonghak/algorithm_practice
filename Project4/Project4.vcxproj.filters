@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="RGB_distance.cpp">
+    <ClCompile Include="Ntriangle.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
