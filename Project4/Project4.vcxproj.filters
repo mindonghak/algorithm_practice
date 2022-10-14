@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="어항정리.cpp">
+    <ClCompile Include="dfs,bfs.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
