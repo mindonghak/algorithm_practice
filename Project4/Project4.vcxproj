@@ -19,7 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="주사위굴리기2.cpp" />
+    <ClCompile Include="파티.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="D:\Download\input.txt" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
